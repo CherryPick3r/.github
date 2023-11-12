@@ -11,4 +11,4 @@
 
 음식점은 저희가 골라드릴게요!
 
-<img src="https://github.com/CherryPick3r/.github/files/13327918/4._._._._.pdf">
+<img src="https://github.com/CherryPick3r/.github/assets/108053947/bebcde1b-f6cf-4367-aff8-a26399142522">
